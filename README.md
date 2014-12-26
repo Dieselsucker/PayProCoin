@@ -3,7 +3,6 @@ PayProCoin Core integration/staging tree
 
 http://www.payprocoin.org
 
-Copyright (c) 2009-2014 PayProCoin Core Developers
 
 What is PayProCoin?
 ----------------
